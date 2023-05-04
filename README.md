@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ashwathi28/ashwathi28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Ashwathi</h1>
 <h3 align="center">A Computer Science Engineer who is passionate about Data Science and is adept at collecting, analyzing, and interpreting large amounts of data, formulating machine learning models, and performing data management tasks.</h3>
 
