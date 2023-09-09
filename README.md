@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashwathi!</h1>
-<h3 align="center">A Computer Science Engineer who is passionate about Data Science and is adept at collecting, analyzing, and interpreting large amounts of data, formulating machine learning models, and performing data management tasks.</h3>
+<h3 align="center">A passionate about Data Science Graduate Student who is adept at collecting, analyzing, and interpreting large amounts of data, formulating machine learning models, and performing data management tasks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwathi28&label=Profile%20views&color=0e75b6&style=flat" alt="ashwathi28" /> </p>
 
